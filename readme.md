@@ -12,7 +12,7 @@ So the dictionary in python is the great choice for mapping data. Which can retr
 
 ## Input file
 
-The input file is `query.txt` and can be renamed(If the file name has been changed, please update the name of file while reading it in app.py at line_number = 193).
+The input file is `query.txt` and can be renamed(If the file name is required be changed, please update the changed name of file in app.py at line_number 193).
 
 ## How to run the app
 `python3 app.py`
